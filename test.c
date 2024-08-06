@@ -12,9 +12,7 @@ int main ()
     printf (" VAR this %-4c \n" , this);
     printf (" VAR this %-4d \n" , r);
     printf ("TEXT %s", text);
-
     //printf ("%-d" , *that);
-
     }
     
 
