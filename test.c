@@ -15,8 +15,6 @@ int main ()
 
     //printf ("%-d" , *that);
 
-        
-    
     }
     
 
